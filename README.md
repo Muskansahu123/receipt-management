@@ -1,0 +1,2 @@
+# receipt-management
+manages receipt
